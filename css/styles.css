@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40;
+    text-align: center;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+
+.footer-text {
+    text-align: center;
+}
