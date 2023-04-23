@@ -1,7 +1,11 @@
 <?php
 // echo shell_exec("ls");
 // echo $_SERVER['DOCUMENT_ROOT'];
+
+
+
 require "config/database.php";
+
 ?>
 
 <!DOCTYPE html>
@@ -15,7 +19,7 @@ require "config/database.php";
 </head>
 
 <body>
-    <!-- admin header -->
+    admin header
 </body>
 
 </html>
